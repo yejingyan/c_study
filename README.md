@@ -1,2 +1,1 @@
 c语言学习笔记代码
-test vscode
