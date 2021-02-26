@@ -10,3 +10,4 @@ git config --global --unset http.proxy
 
 git config --global --unset https.proxy 
 ```
+设置账号邮箱
